@@ -1,0 +1,6 @@
+C:\Users\sawa\source\repos\hw_03\Task1\bin\Debug\Task1.exe.config
+C:\Users\sawa\source\repos\hw_03\Task1\bin\Debug\Task1.exe
+C:\Users\sawa\source\repos\hw_03\Task1\bin\Debug\Task1.pdb
+C:\Users\sawa\source\repos\hw_03\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\sawa\source\repos\hw_03\Task1\obj\Debug\Task1.exe
+C:\Users\sawa\source\repos\hw_03\Task1\obj\Debug\Task1.pdb
