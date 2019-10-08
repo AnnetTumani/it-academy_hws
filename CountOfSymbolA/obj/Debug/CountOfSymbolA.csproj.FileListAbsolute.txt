@@ -1,0 +1,5 @@
+C:\Users\sawa\source\repos\CountOfSymbolA\bin\Debug\CountOfSymbolA.exe.config
+C:\Users\sawa\source\repos\CountOfSymbolA\bin\Debug\CountOfSymbolA.exe
+C:\Users\sawa\source\repos\CountOfSymbolA\bin\Debug\CountOfSymbolA.pdb
+C:\Users\sawa\source\repos\CountOfSymbolA\obj\Debug\CountOfSymbolA.exe
+C:\Users\sawa\source\repos\CountOfSymbolA\obj\Debug\CountOfSymbolA.pdb
