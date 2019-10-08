@@ -1,0 +1,6 @@
+C:\Users\sawa\source\repos\GreetingTime\bin\Debug\GreetingTime.exe.config
+C:\Users\sawa\source\repos\GreetingTime\bin\Debug\GreetingTime.exe
+C:\Users\sawa\source\repos\GreetingTime\bin\Debug\GreetingTime.pdb
+C:\Users\sawa\source\repos\GreetingTime\obj\Debug\GreetingTime.csprojAssemblyReference.cache
+C:\Users\sawa\source\repos\GreetingTime\obj\Debug\GreetingTime.exe
+C:\Users\sawa\source\repos\GreetingTime\obj\Debug\GreetingTime.pdb
