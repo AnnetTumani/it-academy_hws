@@ -1,0 +1,6 @@
+C:\Users\sawa\source\repos\Lecture6Tasks\Lecture6Tasks\bin\Debug\Lecture6Tasks.exe.config
+C:\Users\sawa\source\repos\Lecture6Tasks\Lecture6Tasks\bin\Debug\Lecture6Tasks.exe
+C:\Users\sawa\source\repos\Lecture6Tasks\Lecture6Tasks\bin\Debug\Lecture6Tasks.pdb
+C:\Users\sawa\source\repos\Lecture6Tasks\Lecture6Tasks\obj\Debug\Lecture6Tasks.csprojAssemblyReference.cache
+C:\Users\sawa\source\repos\Lecture6Tasks\Lecture6Tasks\obj\Debug\Lecture6Tasks.exe
+C:\Users\sawa\source\repos\Lecture6Tasks\Lecture6Tasks\obj\Debug\Lecture6Tasks.pdb
