@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using AssemblyOne;
 
-namespace AsseblyTwo
+namespace AssemblyTwo
 {
     public class SportBike : Motorcycle
     {
